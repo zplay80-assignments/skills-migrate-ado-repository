@@ -6,6 +6,6 @@ ado_repository_name: "MigrateFromADORepo"
 # Update these values before running the bootstrap script
 
 github_org: "zplay80-assignments"
-target_github_repo_name: "skills-migrate-ado-repository"
+target_github_repo_name: "migrated-ado-repo"
 ado_url: "https://dev.azure.com/zplay80" 
 
