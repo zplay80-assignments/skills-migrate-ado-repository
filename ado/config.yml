@@ -7,5 +7,5 @@ ado_repository_name: "MigrateFromADORepo"
 
 github_org: "zplay80-assignments"
 target_github_repo_name: "migrated-ado-repo"
-ado_url: "https://dev.azure.com/zplay80" 
+ado_url: "https://dev.azure.com/husniddinmahkamov880"
 
